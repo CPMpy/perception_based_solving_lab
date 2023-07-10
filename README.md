@@ -28,7 +28,7 @@ You can install any additional library using conda or pip.
 
 ### Pip
 
-Alternatively, instead of using conda, you can also install [Python 3.9](https://www.python.org/downloads/release/python-390/) and all requires packages with pip
+Alternatively, instead of using conda, you can also install [Python 3.9](https://www.python.org/downloads/release/python-390/) and all required packages with pip
 
 ```bash
 pip install -r requirements.txt
