@@ -1,0 +1,10 @@
+cpmpy
+lightning==1.9
+numpy
+pillow
+matplotlib
+jupyter
+seaborn
+torch
+torchvision
+charset-normalizer==3.2.0
